@@ -52,4 +52,4 @@ Navigate your floppy circle through pipes and try to hit the max score of **100*
 
 ## 👤 Author
 
-Created by **l158bud** with help from ChatGPT (play‑feel tuning & code cleanup).
+Created by **l158bud** with help from ChatGPT (play‑feel tuning & code cleanup). discord: https://discord.gg/QFQn3NVV6U
